@@ -1,3 +1,7 @@
+'''
+environments module
+'''
+
 class _2DEnvironment:
     '''2d board'''
     def __init__(self, x, y):

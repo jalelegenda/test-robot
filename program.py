@@ -1,4 +1,6 @@
-
+'''
+the program module
+'''
 from robot import Robot
 from environment import _2DEnvironment
 

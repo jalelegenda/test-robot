@@ -1,3 +1,6 @@
+'''
+robot module
+'''
 from consts import ORIENTATIONS
 
 class Robot:
